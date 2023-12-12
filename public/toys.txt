@@ -1,0 +1,3 @@
+# https://www.toystxt.org/toystxt.html
+User-agent: *
+Disallow: /
